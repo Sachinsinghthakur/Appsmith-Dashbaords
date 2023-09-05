@@ -1,0 +1,1 @@
+select name from users where name ilike {{ "%" + Select1.filterText + "%" }} limit 10

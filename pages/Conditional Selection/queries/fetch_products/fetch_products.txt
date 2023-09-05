@@ -1,0 +1,1 @@
+SELECT * FROM public."products" WHERE category = "{{Select1.selectedOptionValue}}" LIMIT 10;
