@@ -1,1 +1,0 @@
-SELECT * FROM users {{Select1.selectedOptionValue !== "all" ? "WHERE gender = '" + Select1.selectedOptionValue + "'": "" }} ORDER BY id LIMIT 100;
