@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "id": "External Filter - Where Clause",
+      "isDefault": true
+    },
+    {
+      "id": "Server Side Filtering",
+      "isDefault": false
+    },
+    {
+      "id": "Conditional Selection",
+      "isDefault": false
+    },
+    {
+      "id": "set values programatically",
+      "isDefault": false
+    },
+    {
+      "id": "Reset Select Widget",
+      "isDefault": false
+    },
+    {
+      "id": "Filter",
+      "isDefault": false
+    },
+    {
+      "id": "Add Select Options Dynamically",
+      "isDefault": false
+    },
+    {
+      "id": "MultiSelect set dynamically",
+      "isDefault": false
+    },
+    {
+      "id": "Option from table rows",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "61fbdf232cd3d95ca414b805",
+  "color": "#ECECEC",
+  "icon": "tree",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 1,
+  "isManualUpdate": false,
+  "deleted": false
+}
