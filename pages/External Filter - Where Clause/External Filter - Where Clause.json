@@ -25,20 +25,7 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "External Filter - Where Clause_fetch_users",
-              "name": "fetch_users",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "Select1.selectedOptionValue !== \"all\" ? \"WHERE gender = '\" + Select1.selectedOptionValue + \"'\": \"\" "
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "External Filter - Where Clause",
